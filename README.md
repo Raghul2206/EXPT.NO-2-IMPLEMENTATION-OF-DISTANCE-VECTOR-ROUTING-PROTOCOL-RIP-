@@ -4,14 +4,31 @@
 To connect computers in multiple networks using Distance Vector Routing Protocol and to verify the connectivity between computers.
 
 # EQUIPMENTS REQUIRED:
+<img width="842" height="213" alt="image" src="https://github.com/user-attachments/assets/a476921b-9013-4149-975e-39491f1abbc2" />
+
 
 
 
 # IP ASSIGNMENT:
 
+<img width="870" height="431" alt="image" src="https://github.com/user-attachments/assets/94fd730b-1607-4365-8f25-8d7e86af8108" />
+
+
 
 
 # NETWORK DIAGRAM:
+
+<img width="1154" height="681" alt="WhatsApp Image 2026-09-02 at 9 02 51 PM" src="https://github.com/user-attachments/assets/02dafc36-6491-4c9e-ad3f-18347254dc6c" />
+
+# ROUTER1:
+
+<img width="1280" height="720" alt="WhatsApp Image 2026-09-02 at 9 02 58 PM" src="https://github.com/user-attachments/assets/cd2ad265-3e15-4faf-8584-852e523bc01a" />
+
+# ROUTER2:
+
+<img width="1280" height="720" alt="WhatsApp Image 2026-09-02 at 9 03 42 PM" src="https://github.com/user-attachments/assets/0269443b-f79d-4cfa-857b-53b1087ab799" />
+
+
 # PROCEDURE:
 
 STEP 1: Open a Packet Tracer Software.
@@ -79,7 +96,10 @@ You can also check connectivity between the PCs on different networks to ensure 
 4.	If everything is configured correctly, you should receive replies from PC3.
 •	Similarly, you can ping between other PCs (e.g., from PC2 to PC5) to verify network connective
  
-# OUTPUT
+# OUTPUT:
+
+<img width="1280" height="720" alt="WhatsApp Image 2026-09-02 at 9 03 48 PM" src="https://github.com/user-attachments/assets/53db4f88-8406-47af-bebb-df8854167ddd" />
+
 
 
 
